@@ -2,14 +2,9 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	 <link rel="stylesheet" href="css/style.css">
 	<title>Responsive Layout</title>
-
-
-
-</head>
 <style>
-*{
+   *{
   box-sizing: border-box;
 }
 
@@ -214,16 +209,11 @@ p {
   }
 
   
-}
-
-
-
-
-
-
-
-
+} 
 </style>
+
+
+</head>
 <body>
 	<div class="row">
 	<h1>Our Menu</h1>
@@ -251,14 +241,3 @@ p {
 
 </body>
 </html>
-
-
-
-
-
-
-
-
-
-
-
